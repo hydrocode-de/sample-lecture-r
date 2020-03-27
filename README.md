@@ -1,7 +1,7 @@
 # Sample Lecture - R
 
 <a href="https://hydrocode.de" target="_blank">
-<img src="https://firebasestorage.googleapis.com/v0/b/hydrocode-website.appspot.com/o/public%2Fhydrocode_brand.png?alt=media"  style="height: 60px; float: left"/></a>
+<img src="https://firebasestorage.googleapis.com/v0/b/hydrocode-website.appspot.com/o/public%2Fhydrocode_brand.png?alt=media"  style="height: 60px; float: left" height="60"/></a>
 
 This is a template repository for creating lectures with [Jupyter Notebooks](https://jupyter.org) and publish them
 using [Notebook-Classroom](https://github.com/hydrocode-de/notebook-classroom). 
@@ -74,6 +74,6 @@ should be used.
 
 ## Great. I want that. So what to do?
 
-1. Add missing packages to the ``requirements.txt``
+1. Add missing packages to the ``environment.yml``
 2. Remove/replace all ``.ipynb`` with your lectures
 3. Configure [Notebook-Classroom](https://github.com/hydrocode-de/notebook-classroom) application by adjusting [configuration.js](configuration.js).
