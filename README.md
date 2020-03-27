@@ -4,7 +4,7 @@
 <img src="https://firebasestorage.googleapis.com/v0/b/hydrocode-website.appspot.com/o/public%2Fhydrocode_brand.png?alt=media"  style="height: 60px; float: left" height="60"/></a>
 
 This is a template repository for creating lectures with [Jupyter Notebooks](https://jupyter.org) and publish them
-using [Notebook-Classroom](https://github.com/hydrocode-de/notebook-classroom). 
+using [Notebook-Classroom](https://github.com/hydrocode-de/notebook-classroom).
 
 The best way to build your own is to [generate a new repository using this as a template](https://github.com/hydrocode-de/sample-lecture-r/generate)
 
