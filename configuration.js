@@ -1,7 +1,7 @@
 var Config = {
     title: "Sample Lecture",
     // put the url of the deployed application here
-    url: "https://hydrocode-de.github.io/sample-lecture-python",
+    url: "https://hydrocode-de.github.io/sample-lecture-r",
     navigation: [
         {
             label: "Home",
